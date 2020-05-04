@@ -1,20 +1,17 @@
 Andrew Cudworth
-CS 7641 (Spring 2020)
+CS XXXX (Spring 2020)
 Assignment 3 Unsupervised Learning
+https://www.omscs.gatech.edu/cs-7641-machine-learning
 
 
-Code is located at 
-https://github.com/acudworth3/Unsupervised-Learning-Exploration
+Unupervised Learning Methods-analysis.pdf contains the analysis of learning models
 
-sklearn is used heavily and cited throughout analysis. 
-All Necessary libraries are in requirenments.txt 
-
-heavily used references:
-[9]	Fodor, I. K. (2002). A Survey of Dimension Reduction Techniques. doi: 10.2172/15002155
-[4]	Sarkar, T. (2019, September 6). Clustering metrics better than the elbow-method. Retrieved from https://towardsdatascience.com/clustering-metrics-better-than-the-elbow-method-6926e1f723a6
-
-
-acudworth3-analysis.pdf contains the analysis of clustering and dimension reduction Algorithms
+Primary Topics:
+Unsupervised Learning
+Principle Component Analysis
+Independent Component Analysis
+Random Projections
+Factor Component Analysis
 
 Original Data:
 https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data (Airbnb)
@@ -78,3 +75,16 @@ nn_res:
         -these are pickled sklearn MLPclassifiers corresponding to the results
         in table 9
     
+
+sklearn is used heavily and cited throughout analysis. 
+All Necessary libraries are in requirenments.txt 
+
+heavily used references:
+[9]	Fodor, I. K. (2002). A Survey of Dimension Reduction Techniques. doi: 10.2172/15002155
+[4]	Sarkar, T. (2019, September 6). Clustering metrics better than the elbow-method. Retrieved from https://towardsdatascience.com/clustering-metrics-better-than-the-elbow-method-6926e1f723a6
+
+
+PLAGARISM DISCLAIMER:
+If you are currently enrolled in the class this assignment was written for and copy exploration methods, report contents, or hyperparameters
+without attribution it is plagiarism. Additionally values in the reports and code have been modified to in a manner specific to this 
+repo allowing easy detection of copying.
